@@ -1,0 +1,17 @@
+/* Sidebar.css */
+
+.container {
+    
+    background-color: #eee; /* Use your desired background color */
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 4rem; /* Adjust the width as needed */
+  }
+  
+  .icon {
+    margin-bottom: 1rem;
+    font-size: 2rem; /* Adjust the font size as needed */
+  }
+  
